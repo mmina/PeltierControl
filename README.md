@@ -1,5 +1,5 @@
 # PeltierControl
-Processing program for the peltier controller manufactured by Krag Electronics 
+Processing programs for peltier controllers manufactured by Krag Electronics 
 
 ## PeltierControl.pde
 クラッグ電子 https://kurag.o.oo7.jp/kurag-el/ 社製ペルチェコントローラ使用してPCから温度制御するクラス。
